@@ -1,0 +1,19 @@
+{
+  "name": "react-crash-course",
+  "version": "1.0.0",
+  "description": "A crash course for React Interview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damonponder/reactCrashCourse.git"
+  },
+  "author": "Damon Ponder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damonponder/reactCrashCourse/issues"
+  },
+  "homepage": "https://github.com/damonponder/reactCrashCourse#readme"
+}
